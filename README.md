@@ -11,11 +11,13 @@ To get started and run the app:
 
 Features Of the application:
 
+- Responsive UI
 - Join in the chat
 - Can see the active persons in the chat
 - Communicate between eachother smoothly
 - Receive message with a music tone
 - Can join through different browser at the same time
+- Fast Routing
 
 Tech Stack:
 - HTML
