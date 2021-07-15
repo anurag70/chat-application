@@ -17,4 +17,14 @@ Features Of the application:
 - Receive message with a music tone
 - Can join through different browser at the same time
 
+Tech Stack:
+- HTML
+- CSS
+- Javascript
+- Node.js
+- Express
+- hbs
+- socket.io
+
+
 
