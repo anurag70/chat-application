@@ -15,5 +15,6 @@ Features Of the application:
 - Can see the active persons in the chat
 - Communicate between eachother smoothly
 - Receive message with a music tone
+- Can join through different browser at the same time
 
 
